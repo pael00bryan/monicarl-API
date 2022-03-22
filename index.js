@@ -2,8 +2,6 @@ const express = require("express");
 const app = express();
 
 const { createClient } = require('@supabase/supabase-js');
-const req = require("express/lib/request");
-const res = require("express/lib/response");
 
 let port = process.env.PORT || 3000;
 
