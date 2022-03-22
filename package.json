@@ -12,7 +12,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "run-node index.js"
+    "start": "run-node index.js",
+    "build": "run-node index.js"
   },
   "repository": {
     "type": "git",
