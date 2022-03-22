@@ -3,7 +3,7 @@ const app = express();
 
 const { createClient } = require('@supabase/supabase-js');
 
-let port = process.env.PORT || 3000;
+let port = process.env.PORT || 5000;
 
 const supabaseUrl = 'https://defrcjzlroxlityrlktz.supabase.co';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRlZnJjanpscm94bGl0eXJsa3R6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDc4NTI5NDIsImV4cCI6MTk2MzQyODk0Mn0.BF60xED4WnQLCmLTIbsHw8Grc-y6jHQm_4rcL84TKyY';
