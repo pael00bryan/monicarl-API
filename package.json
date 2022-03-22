@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/pael00bryan/monicarl-API/issues"
   },
-  "homepage": "https://github.com/pael00bryan/monicarl-APi",
+  "homepage": "https://pael00bryan.github.io/monicarl-API/",
   "engines": {
     "node": "14.17.6",
     "npm": "6.14.15"
